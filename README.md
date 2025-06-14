@@ -1,4 +1,4 @@
-mm
+
 # 📸 AI Caption Generator
 
 A simple and fun web app built with Python, Streamlit, and Google's Gemini AI that generates catchy and creative captions for your social media posts.
